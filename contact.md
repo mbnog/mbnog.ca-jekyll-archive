@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact - MBNOG
+title: Contact
 ---
 
 To contact the Manitoba Network Operator Group at this time please email:

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us - MBNOG
+title: About Us
 ---
 
 The Manitoba Network Operator Group is an unincorporated, loosely organized group of network operators and administrators in Manitoba.
