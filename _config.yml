@@ -23,7 +23,7 @@ description: The Manitoba Network Operator Group
 
 # List of links in the navigation bar
 navbar-links:
-  Looking Glass: "https://lg.mbnog.net"
+  Looking Glass: "looking-glass"
   Operator Resources:
     - Transit Operators: "transit-operator-resources"
     - Stub Networks: "stub-network-resources"
