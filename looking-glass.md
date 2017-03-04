@@ -10,9 +10,9 @@ The Manitoba Network Operators Group operators an eBGP multihop looking glass wi
 
 ## Peering
 
-To peer with the looking glass please contact one of the admins.
+To peer with the looking glass please setup a session with the looking glass using settings below and contact one of the admins.
 
-Settings:
+### LG Peering Settings:
 
 - IPv4:
   - IP: 192.160.102.196
