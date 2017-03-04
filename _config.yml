@@ -47,7 +47,7 @@ author:
   name: MBNOG
   email: "youremail@domain.com"
   github: mbnog    # eg. daattali
-  twitter: mbnog   # eg. daattali
+  twitter: ManitobaNOG   # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
