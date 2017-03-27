@@ -9,7 +9,7 @@
 
 ## to build the site locally
 
-	bundle install # only needed first time or after gem changes
+	bundle install --path vendor/bundle # only needed first time or after gem changes
 	bundle exec jekyll build
 
 the site will then be in the `_site` directory.
