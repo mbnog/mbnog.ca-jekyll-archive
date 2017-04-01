@@ -3,7 +3,7 @@ layout: page
 title: About Us
 ---
 
-### We are, at heart, an organization by engineers, for engineers.
+### We are, at heart, an organization by network operators, for network operators.
 
 The Manitoba Network Operators group is an organization for Networking and Technology professionals in the Winnipeg and Manitoba area.
 
