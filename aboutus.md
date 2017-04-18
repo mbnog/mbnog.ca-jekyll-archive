@@ -3,7 +3,7 @@ layout: page
 title: About Us
 ---
 
-### We are, at heart, an organization by network operators, for network operators.
+## We are, at heart, an organization by network operators, for network operators.
 
 The Manitoba Network Operators group is an organization for Networking and Technology professionals in the Winnipeg and Manitoba area.
 
@@ -13,7 +13,7 @@ We host multiple small events throughout the year allowing attendees a comfortab
 
 ## History
 
-| Date | What Happened |
+| Date | Event |
 | :--- | :--- |
 | 2016 | Desire is heard from multiple people for a local NOG |
 | 2017-02 | Various interested parties are contacted and the initial idea which is pitched is well received |
