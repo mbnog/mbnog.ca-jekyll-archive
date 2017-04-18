@@ -3,9 +3,7 @@ layout: page
 title: Presentations
 ---
 
-## We are, at heart, an organization by network operators, for network operators.
-
-The following is a list of presentations that have been given at MBNOG.
+The following is a list of presentations that have been given at MBNOG with links to slides where they exist online.
 
 ## History
 
