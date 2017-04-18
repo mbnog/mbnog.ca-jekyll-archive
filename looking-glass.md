@@ -14,14 +14,11 @@ To peer with the looking glass please setup a session with the looking glass usi
 
 ### LG Peering Settings:
 
+- AS: 65204
+- BGP Multihop
+  - 32 hops should be enough
 - IPv4:
   - IP: 192.160.102.196
-  - AS: 65204
-  - BGP Multihop
-  - 32 hops should be enough
 - IPv6:
   - IP: 2605:e200:d00d:300::196
-  - AS: 65204
-  - BGP Multihop
-  - 32 hops should be enough
 
