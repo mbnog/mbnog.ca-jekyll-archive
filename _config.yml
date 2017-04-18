@@ -28,9 +28,9 @@ navbar-links:
     - Presentations: "presentations"
     - Transit Operators: "transit-operator-resources"
     - Stub Networks: "stub-network-resources"
-  Sponsors: "sponsors"
   About Us: "aboutus"
   Contact: "contact"
+  Sponsors: "sponsors"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
