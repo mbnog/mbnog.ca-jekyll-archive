@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-MBNOG operates several mailing lists, available at (lists.mbnog.ca)[https://lists.mbnog.ca/]
+MBNOG operates several mailing lists, available at [lists.mbnog.ca](https://lists.mbnog.ca/)
 
 To contact the Manitoba Network Operator Group at this time please email:
 
