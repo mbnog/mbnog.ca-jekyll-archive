@@ -25,8 +25,9 @@ description: The Manitoba Network Operator Group
 navbar-links:
   Resources:
     - Looking Glass: "looking-glass"
+    - Lists: "lists"
     - Presentations: "presentations"
-    - Transit Operators: "transit-operator-resources"
+    - Transit Networks: "transit-network-resources"
     - Stub Networks: "stub-network-resources"
   About Us: "aboutus"
   Contact: "contact"
