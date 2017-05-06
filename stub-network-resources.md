@@ -6,7 +6,7 @@ subtitle: Default Route Networks
 
 Abridged from [Wikipedia](https://en.wikipedia.org/wiki/Stub_network):
 
-	A stub network is a somewhat casual term describing a computer network, with no knowledge of other networks, that will typically send much or all of its non-local traffic out via a single path, with the network aware only of a default route to non-local destinations.
+> A stub network is a somewhat casual term describing a computer network, with no knowledge of other networks, that will typically send much or all of its non-local traffic out via a single path, with the network aware only of a default route to non-local destinations.
 
 We will refer to those BGP networks which use a default route only, or a default plus a selection of routes (perhaps from an IX). Networks which do not run in the default-free-zone (DFZ).
 
