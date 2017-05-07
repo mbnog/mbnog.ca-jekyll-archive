@@ -14,3 +14,7 @@ Being a transit operator comes with an inherent responsibility to not break your
 1. using route-maps to control prefix filtering, communities, and as-path filtering
 1. peering in multiple locations
 
+## Web resources
+
+*	[NLNOG BGP Filter Guide](http://bgpfilterguide.nlnog.net/guides/)
+

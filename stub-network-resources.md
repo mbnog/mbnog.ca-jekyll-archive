@@ -18,3 +18,7 @@ We will refer to those BGP networks which use a default route only, or a default
 1. expanding from 2 to n BGP routers
 1. interacting with your IGP (OSPF, EIGRP)
 
+## Web resources
+
+*	[NLNOG BGP Filter Guide](http://bgpfilterguide.nlnog.net/guides/)
+
