@@ -20,5 +20,5 @@ To peer with the looking glass please setup a session with the looking glass usi
 - IPv4:
   - IP: 192.160.102.196
 - IPv6:
-  - IP: 2605:e200:d00d:300::196
+  - IP: 2620:132:3003:300::196
 
