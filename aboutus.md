@@ -5,11 +5,11 @@ title: About Us
 
 ## We are, at heart, an organization by network operators, for network operators.
 
-The Manitoba Network Operators group is an organization for Networking and Technology professionals in the Winnipeg and Manitoba area.
+The Manitoba Network Operators Group is an organization for networking and technology professionals in the Winnipeg and Manitoba area.
 
 Our goal is to provide education for those looking to improve their skill set, learn about networking technologies, as well as to meet and build relationships with fellow professionals.
 
-We host multiple small events throughout the year allowing attendees a comfortable opportunity to learn, ask questions and network with others.
+We host multiple small events throughout the year allowing attendees a comfortable, relaxed opportunity to learn, ask questions and network with others.
 
 ## History
 
