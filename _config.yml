@@ -26,6 +26,7 @@ navbar-links:
   Resources:
     - Looking Glass: "looking-glass"
     - Mailing Lists: "lists"
+    - Slack: "slack"
     - Presentations: "presentations"
     - Transit Nets: "transit-network-resources"
     - Stub Nets: "stub-network-resources"
