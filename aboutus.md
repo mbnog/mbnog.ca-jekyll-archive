@@ -20,4 +20,5 @@ We host multiple small events throughout the year allowing attendees a comfortab
 | 2017-02-19 | Initial beta MBNOG Looking Glass |
 | 2017-03-04 | Domain names are acquired and initial website launched |
 | 2017-04-19 | First meeting (MBNOG 0) |
+| 2018-03-22 | Second meeting/First public meeting (MBNOG 1) |
 
